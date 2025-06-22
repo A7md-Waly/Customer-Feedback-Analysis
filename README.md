@@ -4,6 +4,7 @@
 This project focuses on analyzing customer feedback in English to extract valuable insights, improve services, and enhance customer satisfaction. The workflow is designed to streamline the process of collecting, storing, analyzing, and acting on customer feedback in real time using AI-powered solutions.
 
 ## Workflow Stages
+
 1. **SQL Database Setup**: An SQL database is implemented to efficiently store and organize customer feedback data for easy retrieval and management.
 
 2. **Data Warehouse Design**: A data warehouse is used to systematically aggregate data, preparing it for advanced analysis and enhancing data management.
@@ -18,14 +19,17 @@ This project focuses on analyzing customer feedback in English to extract valuab
 The main goal of this project is to provide an AI-powered platform that automatically and accurately analyzes English customer feedback. This helps businesses improve service quality, operational efficiency, and customer satisfaction by responding instantly to customer sentiments.
 
 ## Technologies Used
-- **SQL**: For database management.
-- **Data Warehouse**: For data aggregation.
-- **Machine Learning**: For sentiment analysis.
-- **Azure**: For real-time deployment.
+- **SQL**: For database management.  
+- **Data Warehouse**: For data aggregation.  
+- **Machine Learning**: For sentiment analysis.  
+- **Azure**: For real-time deployment.  
 - **MLflow**: For performance monitoring and result analysis.
 
-## Dataset
-We used the [Amazon Fine Food Reviews dataset](https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews?select=Reviews.csv) for English sentiment analysis.
+---
 
-## Live Demo
-Check out our platform in action: [Customer Feedback Analysis Website](https://customer-project.azurewebsites.net/)
+## Thanks & Contact
+Thanks for checking out this project!  
+If you'd like to connect or have any questions, feel free to reach out:
+
+**👤 Ahmed Waly**  
+🔗 [LinkedIn – Ahmed Waly](https://www.linkedin.com/in/ahmd-waly)
